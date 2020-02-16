@@ -1,0 +1,11 @@
+D:\Gartner_Home_Assignment\ProductsFeedImporter\bin\Debug\netcoreapp2.2\ProductsFeedImporter.deps.json
+D:\Gartner_Home_Assignment\ProductsFeedImporter\bin\Debug\netcoreapp2.2\ProductsFeedImporter.runtimeconfig.json
+D:\Gartner_Home_Assignment\ProductsFeedImporter\bin\Debug\netcoreapp2.2\ProductsFeedImporter.runtimeconfig.dev.json
+D:\Gartner_Home_Assignment\ProductsFeedImporter\bin\Debug\netcoreapp2.2\ProductsFeedImporter.dll
+D:\Gartner_Home_Assignment\ProductsFeedImporter\obj\Debug\netcoreapp2.2\ProductsFeedImporter.csproj.CoreCompileInputs.cache
+D:\Gartner_Home_Assignment\ProductsFeedImporter\obj\Debug\netcoreapp2.2\ProductsFeedImporter.AssemblyInfoInputs.cache
+D:\Gartner_Home_Assignment\ProductsFeedImporter\obj\Debug\netcoreapp2.2\ProductsFeedImporter.AssemblyInfo.cs
+D:\Gartner_Home_Assignment\ProductsFeedImporter\bin\Debug\netcoreapp2.2\ProductsFeedImporter.pdb
+D:\Gartner_Home_Assignment\ProductsFeedImporter\obj\Debug\netcoreapp2.2\ProductsFeedImporter.dll
+D:\Gartner_Home_Assignment\ProductsFeedImporter\obj\Debug\netcoreapp2.2\ProductsFeedImporter.pdb
+D:\Gartner_Home_Assignment\ProductsFeedImporter\bin\Debug\netcoreapp2.2\appSettings.json
